@@ -1,2 +1,2 @@
 # functionomics
-Scripts to analyse data from multiple PRR stimulations
+Scripts to analyse fow cytometry data from multiple PRR stimulations with automatic cytokine gating 
